@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Veeam_Task": {
+      "commandName": "Project",
+      "commandLineArgs": "--source \"C:\\Test\\src\" --replica \"C:\\Test\\replica\" --interval 30 --log \"C:\\Test\\sync.log\"\r\n"
+    }
+  }
+}
