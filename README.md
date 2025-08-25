@@ -6,10 +6,10 @@
 
 You run the app with 4 command-line arguments:
 
---source → the source folder path  
---replica → the replica folder path  
---interval → sync interval in seconds  
---log → path to the log file
+--source:  the source folder path  
+--replica: the replica folder path  
+--interval: sync interval in seconds  
+--log: path to the log file
 
 The application performs the following steps every interval:
 
